@@ -1,6 +1,9 @@
 ### Hi, I'm Rodrigo Amadeu Pinto 👋
 
-- 🌱 I’m currently learning EBAC - Curso Desenvolvedor Full Stack Java
+- 🌱 I’m currently learning: 
+- 🌱 EBAC - Curso Desenvolvedor Full Stack Java
+- 🌱 Estácio - Engenharia de Software
+- 🌱 One/Alura - Oracle Next Education
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt=Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
