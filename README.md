@@ -6,7 +6,6 @@
   <img align="center" alt=Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://static.lms.ebaconline.com.br/avatars/32dfa2bc-0357-44e0-a287-4e10e4fc8148/80x80.webp">
 </div>
   
   ##
